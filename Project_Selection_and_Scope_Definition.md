@@ -108,7 +108,8 @@ The project will be considered successful when:
 ---
 ## 7. Overall Project Flow
 
-![Flowchart](./flowchart.png)
+<img src="flowchart.png" width="400">
+
 
 ---
 ## 8. Project Outcome
